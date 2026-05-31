@@ -64,16 +64,50 @@ StudySessionTracker/
 ├── main.py
 └── README.md
 ```
+## How to Run
+1. Requirements
+Python 3.x
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/chvzdn/dally.git
 
-How to Run the Application
+## Navigate to the project folder:
+  ```bash
+  cd Study Session Tracker 
+  ```
 
-1.Clone the repository:
-Git clone https://github.com/[RepositoryLink]
-Cd StudySessionTracker
-2.Run the application:
-Python main.py
-1.Run the testst
-Py -m pytest -v
+Run the Application:
+  ```bash
+  python main.py
+  ```
+
+Running Tests
+Run automated tests using pytest: 
+```bash
+py -m pytest -v
+```
+Or run all tests in the tests folder:
+```bash
+pytest tests/
+```
+
+ Export Report
+Inside the application:
+1. Go to the Report tab
+2. Click Export Report
+3. Output file will be saved as:
+```
+report.txt
+```
+
+Author 
+Developed as a school project by:
+Manilyn Glodo ([GitHub Profile of Glodo](https://github.com/chvzdn))
+Elaysa Golde ([GitHub Profile of elaysa](
+
+In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
+
+
 
 Features
 
@@ -87,22 +121,7 @@ Allows students to attach a specific task, assignment, or output to a saved sess
 
 •Feature 3 – Progress Tracking by Topic
 
-Aggregates all sessions and deliverables under a topic and displays a percentage-based progress report with a visual progress bar. The report can be exported to a .txt file.
-
-
- Authors
-
-Golde, Elaysa L. — Project Lead, UI/UX Designer, Documentation Writer
-
-GitHub: https://github.com/[GoldeGitHubUsername]
-
-Glodo, Manilyn— Lead Developer, Database Manager
-
-GitHub:https://github.com/manilynglodo17
-Repository Link
-
-https://github.com/[RepositoryLink]
- 
+Aggregates all sessions and deliverables under a topic and displays a percentage-based progress report with a 
 
 
 
