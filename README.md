@@ -102,26 +102,10 @@ report.txt
 
 Author 
 Developed as a school project by:
-Manilyn Glodo ([GitHub Profile of Glodo](https://github.com/chvzdn))
+Manilyn Glodo ([GitHub Profile of Glodo]())
 Elaysa Golde ([GitHub Profile of elaysa](
 
 In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
 
 
-
-Features
-
-•Feature 1 – Track Study Session
-
-Allows students to log a study session by entering the subject, topic, date, start time, and end time. The system automatically calculates the total duration and saves the session record.
-
-•Feature 2 – Input Session Deliverable
-
-Allows students to attach a specific task, assignment, or output to a saved session. Students can set a due date and update the deliverable status to Completed when finished.
-
-•Feature 3 – Progress Tracking by Topic
-
-Aggregates all sessions and deliverables under a topic and displays a percentage-based progress report with a 
-
-
 
