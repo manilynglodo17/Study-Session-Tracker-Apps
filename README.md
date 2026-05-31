@@ -102,7 +102,7 @@ report.txt
 
 Author 
 Developed as a school project by:
-Manilyn Glodo ([GitHub Profile of Glodo]())
+Manilyn Glodo ([GitHub Profile of Glodo](https://github.com/manilynglodo17))
 Elaysa Golde ([GitHub Profile of elaysa](
 
 In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
