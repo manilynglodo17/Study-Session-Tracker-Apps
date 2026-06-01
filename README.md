@@ -69,7 +69,7 @@ StudySessionTracker/
 Python 3.x
 2. Clone this repository:
    ```bash
-https://github.com/manilynglodo17/Study-Session-Tracker-Apps/tree/main
+   https://github.com/manilynglodo17/Study-Session-Tracker-Apps
 
 ## Navigate to the project folder:
   ```bash
